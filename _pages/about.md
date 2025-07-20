@@ -29,9 +29,9 @@ redirect_from:
 - 🌍 **Presented at International Conferences**  
 - 🔍 **Active Peer Reviewer**  
   - Reviewed **70+ papers** across multiple scientific journals  
-  - *(Check my {% if author.orcid %}
-        <a href="{{ author.orcid }}"><i class="ai ai-orcid ai-fw icon-pad-right"></i>ORCID</a>
-      {% endif %} for details)*  
+  - *(Check my 
+        <a href="https://orcid.org/0009-0009-0455-6034"><i class="ai ai-orcid ai-fw icon-pad-right"></i>ORCID</a>
+      for details)*  
 
 ### **Key Strengths**
 - 🛠️ **Full-Stack Web Development**  
