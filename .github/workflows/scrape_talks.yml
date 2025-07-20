@@ -1,5 +1,8 @@
 name: Scrape Talk Locations
 
+permissions:
+  contents: write  # Allows pushing to the repo
+  
 on:
   push:
     paths:
