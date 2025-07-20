@@ -26,7 +26,7 @@ author:
   name             : "Eren"
   pronouns         : "he/him" # example: "she/her"  
   bio              : "Researcher -> Developer -> Python -> NLP"
-  location         : "Earth"
+  location         : "China "
   employer         : "Chongqing University"
   uri              : # URL
   email            : "nouman.laravel@outlook.com" 
@@ -34,11 +34,11 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0009-0455-6034"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
@@ -48,11 +48,11 @@ author:
   dribbble         : # Username
   github           : "erenneu"
   kaggle           : # Username  
-  stackoverflow    : 8952947/eren # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  stackoverflow    : "8952947/eren" # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -61,7 +61,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : nouman448 # nouman448
+  linkedin         : "nouman448" # nouman448
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
