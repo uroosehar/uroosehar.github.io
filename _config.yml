@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Eren"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/him" # example: "she/her"  
   bio              : "Researcher -> Developer -> Python -> NLP"
   location         : "Earth"
   employer         : "Chongqing University"
