@@ -3,25 +3,28 @@
   desc: 
   img_alt: SCI Paper Acceptance Letter
   
-- name: HSK 3
-  img: 1750164688774.jpeg
-  desc: 
-  img_alt: HSK 3 certificate
+# - name: HSK 3
+#   img: 1750164688774.jpeg
+#   desc: 
+#   img_alt: HSK 3 certificate
 
-  
 - name: Oral Presentation in International Conference
   img: 1750304054214.jpeg
   desc: 
   img_alt: oral
-
   
 - name: Certificate of Reviewer
-  img: 1750164182481.jpeg
+  img: Certificate_ESWA_Recognised_page-0001.jpg
   desc: 
   img_alt: Certificate
   
 - name: Certificate of Reviewer
-  img: 1749537353131.jpeg
+  img: Certificate_KNOSYS_Recognised_page-0001.jpg
+  desc: 
+  img_alt: Certificate
+  
+- name: Certificate of Reviewer
+  img: Certificate_PATREC_Recognised_page-0001.jpg
   desc: 
   img_alt: Certificate
 
