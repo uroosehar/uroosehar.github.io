@@ -1,3 +1,8 @@
+## Coding standards
+1. main file is available under _layouts/single.html
+1. main config file is available _config.yml
+
+
 # Academic Pages
 **Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
 
