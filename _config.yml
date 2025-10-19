@@ -25,9 +25,9 @@ author:
   avatar           : "profile.jpg"
   name             : "Nouman Ahmad(Eren)"
   pronouns         : "he/him" # example: "she/her"  
-  bio              : "Researcher -> Developer -> Python -> NLP"
+  bio              : "LLMs, Cybersecurity, Medical Image Processing"
   location         : "China "
-  employer         : "Chongqing University"
+  employer         : "Northeastern University, Chongqing University"
   uri              : # URL
   email            : "nouman.laravel@outlook.com" 
 
