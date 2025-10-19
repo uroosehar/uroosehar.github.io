@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Nouman Ahmad(Eren)"
+title: "Uroosa Sehar"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,10 +10,10 @@ redirect_from:
 # **Introduction**
 
 ### **Academic Background**
-- 🎓 **Bachelor of Science (BSc)** in Software Engineering  
-  - *University of Agriculture, Faisalabad, Pakistan*  
+- 🎓 **Bachelor of Engineering (BEIT)** in Information Technology   
+  - *University of Engineering and Technology, Taxila, Pakistan*  
 - 🎓 **Master's Degree**  
-  - *Chongqing University, China*  
+  - *Northeastern University, China*  
 - 🔬 **Currently Pursuing PhD**  
   - *Northeastern University, China (Since 2023)*  
 
