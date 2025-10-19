@@ -9,13 +9,13 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Nouman Ahmad (Eren)"
+title                    : "Uroosa Sehar"
 title_separator          : "-"
-name                     : "Nouman Ahmad (Eren)"
+name                     : "Uroosa Sehar"
 description              : &description "personal description"
-url                      : https://erenneu.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://uroosehar.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "erenneu/erenneu.github.io"
+repository               : "uroosehar/uroosehar.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,13 +23,13 @@ repository               : "erenneu/erenneu.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Nouman Ahmad(Eren)"
-  pronouns         : "he/him" # example: "she/her"  
-  bio              : "LLMs, Cybersecurity, Medical Image Processing"
+  name             : "Uroosa Sehar"
+  pronouns         : "She/her" # example: "she/her"  
+  bio              : "Medical Image Processing, AI, CV"
   location         : "China "
-  employer         : "Northeastern University, Chongqing University"
+  employer         : "Siat UCAS Shenzhen"
   uri              : # URL
-  email            : "nouman.laravel@outlook.com" 
+  email            : "uroosasehar786@outlook.com" 
 
   # Academic websites
   academia         : # URL
